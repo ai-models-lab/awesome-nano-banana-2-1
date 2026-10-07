@@ -1,0 +1,74 @@
+[
+  {
+    "id": "nb-portrait-01",
+    "title": "Candid Golden Hour 35mm Street Portrait",
+    "titleZh": "黄金时刻35mm街头抓拍自然微纹理人像",
+    "category": "portraits",
+    "prompt": "A candid 35mm photograph of a 26-year-old woman in Kyoto during late golden hour, warm slanted sunlight illuminating fine peach fuzz and natural skin pores, delicate subtle freckles across the nose bridge, hazel eyes with soft catchlights, relaxed unposed half-smile, wearing an oversized raw-linen ivory trench coat. Shallow depth of field, gentle lens flare kissing the edge of the frame, Kodak Portra 400 color science, authentic grain, natural imperfection, shot on Leica M11 with Summilux 35mm f/1.4 lens.",
+    "aspectRatio": "4:5",
+    "author": "Elena Rostova",
+    "authorHandle": "@rostova_visuals",
+    "testedModel": "Nano Banana 2.1 (Gemini-2.5-flash-image)",
+    "tags": ["Street Portrait", "Golden Hour", "Portra 400", "Natural Skin", "Leica M11"]
+  },
+  {
+    "id": "nb-camera-01",
+    "title": "Ricoh GR III Street Screen Viewfinder HUD",
+    "titleZh": "理光GR3相机后背屏幕拟真街头取景显示屏",
+    "category": "compact_camera",
+    "prompt": "Macro eye-level photo of the back of a black Ricoh GR III compact digital camera held in hands on a Tokyo rainy night. The 3-inch LCD screen is crystal clear and actively previewing a bustling neon crosswalk in Shibuya through wet glass. On the LCD screen, realistic camera UI is sharply rendered: exposure scale reading \"+0.3\", shutter speed \"1/160s\", aperture \"F2.8\", ISO \"800\", green focus brackets locked onto a pedestrian with umbrella, white battery icon at 78%, and grid overlay lines. The camera body shows subtle matte texture and thumb grip wear. Background is moody out-of-focus bokeh of city headlights.",
+    "aspectRatio": "16:9",
+    "author": "Kenji Sato",
+    "authorHandle": "@kenji_shibuya_gr",
+    "testedModel": "Nano Banana 2.1 Pro",
+    "tags": ["Camera Screen", "Street Photography", "UI Overlay", "Tokyo Neon", "Macro Tech"]
+  },
+  {
+    "id": "nb-commercial-01",
+    "title": "Frosted Glass Minimalist Perfume on Wet Basalt",
+    "titleZh": "微观冰晶折射：湿润玄武岩上的极简雾面玻璃香氛",
+    "category": "commercial",
+    "prompt": "High-end luxury commercial product photograph of a minimalist frosted glass perfume bottle named \"AURA NOIR\" embossed in crisp black serif typography on the glass surface. The flacon rests upon a wet, dark porous volcanic basalt rock surrounded by tiny glistening water droplets. Soft warm sunrise light passes through the pale amber perfume liquid inside, casting complex caustic light refractions across the textured stone surface. Crisp macro detail, shallow focus on the polished silver atomizer cap, clean high-fashion cosmetic campaign lighting by Peter Lindbergh style.",
+    "aspectRatio": "4:5",
+    "author": "Studio Vesper",
+    "authorHandle": "@vesper_commercial",
+    "testedModel": "Nano Banana 2.1 (Gemini-2.5-flash-image)",
+    "tags": ["Commercial Product", "Caustics", "Frosted Glass", "Water Droplets", "Luxury Perfume"]
+  },
+  {
+    "id": "nb-diagram-01",
+    "title": "Knolling Exploded Dissection of Mechanical Watch",
+    "titleZh": "机械腕表全零件精密爆炸解构图",
+    "category": "exploded_diagrams",
+    "prompt": "Top-down isometric exploded knolling layout of a Swiss tourbillon mechanical wristwatch, completely disassembled into 160 individual precision components. Brass gears, ruby bearing jewels, polished escapement wheel, coiled balance spring, titanium sub-dials, hands, sapphire crystal, and steel chassis are meticulously arranged on a clean matte blueprint cutting mat with fine millimeter grid lines. Each major subassembly is labeled with crisp, ultra-sharp miniature technical annotations and dimensions in white Helvetica sans-serif text. Studio overhead diffused softbox illumination, zero shadow harshness, surgical engineering accuracy.",
+    "aspectRatio": "16:9",
+    "author": "Marcus Vance",
+    "authorHandle": "@marcus_schematics",
+    "testedModel": "Nano Banana 2.1 Pro",
+    "tags": ["Knolling", "Exploded View", "Mechanical Watch", "Technical Diagram", "Precision"]
+  },
+  {
+    "id": "nb-oriental-01",
+    "title": "Celadon Porcelain Cybernetic Hybrid & Gold Kintsugi",
+    "titleZh": "宋代汝窑青瓷与钛合金机械骨骼金缮共生",
+    "category": "oriental_aesthetics",
+    "prompt": "Masterpiece sculpture blending an authentic Song Dynasty celadon glazed ceramic vase with futuristic aerodynamic titanium mechanical exoskeletons. Fractured areas of the pale jade-green cracked glaze are repaired with gleaming molten 24k gold kintsugi seams that softly pulse with subtle fiber-optic luminescence. Set in a quiet misty Zen courtyard with bamboo stalks silhouetted through rain-washed rice paper screens. Cinematic moody chiaroscuro lighting, subtle incense smoke curls drifting through light rays, 8k resolution, poetic traditional Chinese aesthetic meets high-tech cyber minimalism.",
+    "aspectRatio": "3:2",
+    "author": "Chen Yixian",
+    "authorHandle": "@yixian_ink_ai",
+    "testedModel": "Nano Banana 2.1 (Gemini-2.5-flash-image)",
+    "tags": ["Neo-Oriental", "Celadon Ceramic", "Kintsugi", "Cyber Minimalist", "Zen Aesthetic"]
+  },
+  {
+    "id": "nb-poster-01",
+    "title": "Swiss Modernist Typography Poster \"TOKYO 2026\"",
+    "titleZh": "瑞士极简主义国际主义平面设计海报",
+    "category": "typography_posters",
+    "prompt": "Graphic design poster in authentic 1960s Swiss International Typographic Style. Bold primary headline reading \"TOKYO 2026\" perfectly spelled in black uppercase Helvetica Bold, aligned along an asymmetric grid. Secondary subtitle reads \"INTERNATIONAL ARCHITECTURE SYMPOSIUM / NOV 12-15\" in crisp 14pt sans-serif font. The layout features a minimalist striking circular vermilion red graphic intersecting a black-and-white high-contrast architectural photograph of a brutalist spiral staircase. Printed on heavyweight natural off-white art paper with fine tactile paper texture and subtle offset-lithography ink absorbency.",
+    "aspectRatio": "2:3",
+    "author": "Jonas Müller",
+    "authorHandle": "@mueller_swissgrid",
+    "testedModel": "Nano Banana 2.1 Pro",
+    "tags": ["Swiss Poster", "Typography", "Helvetica", "Editorial Design", "Minimalist"]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "awesome-nano-banana-2-1",
+  "description": "Curated collection of prompts, visual styles, tips, and resources for Nano Banana 2.1 (Gemini Flash Image / Imagen 3). Fully exportable GitHub repository with comprehensive README.md.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
